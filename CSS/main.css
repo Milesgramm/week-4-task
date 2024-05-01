@@ -11,13 +11,13 @@
   border-radius: 20px;
   margin: auto;
   text-align: center;
-  background-image: url("/images/wallpaper.jpeg");
+  background-color: rgba(137, 43, 226, 0.575);
 }
 
 .image {
   width: 250px;
   border: 10px solid;
-  border-color: #00ccff;
+  border-color:rgba(245, 245, 245, 0.24);
   border-radius: 50%;
   height: 250px;
   padding-bottom: 0px;
@@ -31,7 +31,7 @@ h1 {
 }
 
 .job {
-  background-color: #00ccff;
+  background-color: #00ccff3f;
   width: 78%;
   margin: auto;
   border: 3px solid;
