@@ -1,0 +1,64 @@
+*{
+    margin: 10px;
+    box-sizing:border-box;
+    padding: 0px;
+}
+.box{
+    width: 400px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+    background-image: url('/images/wallpaper.jpeg');
+}
+.image{
+   width: 250px;
+    border: 10px solid;
+    border-color: rgb(0, 204, 255);
+    border-radius:50%;
+    height: 250px;
+    padding-bottom: 0px;  
+    
+}
+h1{
+    color: blue;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.job{
+    background-color:  rgb(0, 204, 255);
+    width: 78%;
+    margin: auto;
+    border: 3px solid;
+    border-radius: 10px;
+    
+}
+
+.web{
+    text-align: left;
+    width: 98%;
+    font-weight: lighter;
+    font-style: italic;
+    color:black;
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+.twitter{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+.instagram{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+.whatsapp{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;  
+}
